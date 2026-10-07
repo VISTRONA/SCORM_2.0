@@ -1,0 +1,36 @@
+{
+  "name": "HR-SCORM Studio",
+  "short_name": "HR Studio",
+  "description": "HR course authoring and SCORM export",
+  "id": "/",
+  "start_url": "/#/app",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": [
+    "standalone",
+    "minimal-ui"
+  ],
+  "orientation": "any",
+  "background_color": "#ffffff",
+  "theme_color": "#12304a",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": [
+    "education",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "maskable"
+    }
+  ]
+}
